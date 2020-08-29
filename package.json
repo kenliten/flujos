@@ -1,6 +1,6 @@
 {
   "name": "flujos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A general database independent model crud library",
   "main": "index.js",
   "repository": {
