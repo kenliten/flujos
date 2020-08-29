@@ -1,0 +1,22 @@
+{
+  "name": "flujos",
+  "version": "1.0.0",
+  "description": "A general database independent model crud library",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenliten/flujos.git"
+  },
+  "keywords": [
+    "library",
+    "model",
+    "crud",
+    "database"
+  ],
+  "author": "kenliten",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/kenliten/flujos/issues"
+  },
+  "homepage": "https://github.com/kenliten/flujos#readme"
+}
