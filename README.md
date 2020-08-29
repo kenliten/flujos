@@ -1,4 +1,4 @@
-<img src="./logo.png" width="256" height="256">
+<img src="./logo.png" width="420" height="420">
 # Flujos
 A general database independent model CRUD library
 
@@ -14,13 +14,13 @@ To add to your project, using <a href="https://npmjs.org/" target="_blank">NPM</
 <code>
   $ npm install flujos --save
 </code>
-
+<br>
 Or, with <a href="https://yarnpkg.com/" target="_blank">Yarn</a>:
 
 <code>
   $ yarn add flujos
 </code>
-
+<br>
 After, in your code, simply add a database engine to get started with a particular database.
 
 # Adding a database engine
